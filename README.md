@@ -18,4 +18,16 @@ This project was created as part of the Python Developer application task.
 ---
 
 ## Project Structure
+trading_bot/
+│
+├── bot/
+│   ├── client.py
+│   ├── orders.py
+│   ├── validators.py
+│   └── logging_config.py
+│
+├── cli.py
+├── .env
+└── README.md
+
 

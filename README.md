@@ -29,5 +29,39 @@ trading_bot/
 ├── cli.py
 ├── .env
 └── README.md
+## Tech Stack
+Language
+
+Python 3
+
+Libraries / Tools
+
+python-binance — Binance Futures Testnet API interaction
+
+argparse — CLI input handling
+
+logging — structured logging
+
+python-dotenv — environment variables management
+
+API
+
+Binance Futures Testnet (USDT-M)
+
+REST API via python-binance
+
+Concepts Used
+
+CLI application development
+
+API integration
+
+Exception handling
+
+Input validation
+
+Logging system
+
+Modular project structure
 
 
